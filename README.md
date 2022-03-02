@@ -1,4 +1,4 @@
-# TreeHouseProject5
+# Public API Requests
 API Request Project
 
 Communicating with APIs allows you to work with microservices and with vast databases to build useful tools and relevant information quickly and easily. 
